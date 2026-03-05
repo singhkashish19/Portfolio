@@ -1,0 +1,113 @@
+================================================================================
+                            YOUR NAME
+                     Software Engineer | Backend Systems
+================================================================================
+CONTACT INFORMATION
+Email: your.email@example.com | LinkedIn: linkedin.com/in/yourprofile
+GitHub: github.com/yourprofile | Phone: (123) 456-7890
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Passionate Computer Science student and software engineer focused on backend
+systems, system design, and quantitative trading infrastructure. Strong
+foundation in Data Structures & Algorithms (150+ LeetCode problems solved).
+Targeting FAANG and High-Frequency Trading (HFT) opportunities.
+
+GPA: 3.8/4.0 | B.Tech Computer Science
+
+================================================================================
+CORE COMPETENCIES
+================================================================================
+Languages:       C++, Python, JavaScript/TypeScript, SQL
+Backend:         Node.js, Express, FastAPI, REST APIs, System Design
+Frontend:        React, HTML5, CSS/TailwindCSS, Framer Motion
+Databases:       MongoDB, PostgreSQL, Redis, Firebase
+Tools & DevOps:  Git, Docker, GitHub Actions, Vercel, AWS Basics
+Concepts:        Data Structures, Algorithms, System Design, OOP,
+                 Trading Systems, Real-time Processing, LLM Applications
+
+================================================================================
+FEATURED PROJECTS
+================================================================================
+
+NY Session Breakout Backtesting Engine
+• Developed quantitative trading system modeling XAU/USD breakout strategies
+• Implemented technical indicators, risk metrics, and performance analytics
+• Achieved 65% win rate on historical data with optimized entry/exit signals
+• Tech: Python, Pandas, TA-Lib, Data Analysis
+• Repository: github.com/yourprofile/trading-backtest
+
+Scalable REST API Backend
+• Built production-ready backend service with authentication and caching layer
+• Implemented JWT authentication, Redis caching, MongoDB optimization
+• Achieved 99.9% uptime with 50ms average response time
+• Handles 10,000+ concurrent requests efficiently
+• Tech: Node.js, Express, MongoDB, Redis, Docker
+
+GenAI Mini Application
+• AI-powered application leveraging LLMs for intelligent data processing
+• Built React frontend with FastAPI backend and OpenAI API integration
+• Implemented real-time streaming and semantic search capabilities
+• Sub-2 second response times with 98% accuracy on test suite
+• Tech: React, FastAPI, OpenAI, Vector DB, TypeScript
+
+DSA Practice Tracker
+• Interactive full-stack platform for tracking DSA problem-solving progress
+• Implemented spaced repetition algorithm and difficulty classification
+• Covers 500+ LeetCode-style problems with performance metrics
+• Users improved problem-solving speed by 40% on average
+• Tech: React, Node.js, PostgreSQL, Data Visualization
+
+================================================================================
+EDUCATION & EXPERIENCE
+================================================================================
+
+B.Tech Computer Science [2024 - Present]
+• Coursework: Data Structures & Algorithms, Operating Systems, Databases,
+  System Design, Advanced C++ Programming
+• Active in competitive programming and algorithm problem-solving
+
+Advanced Backend & Trading Systems Development [2023 - 2024]
+• Developed REST APIs with full optimization and caching strategies
+• Built Python trading backtest engine with technical analysis
+• Practiced and mastered 150+ DSA problems on LeetCode
+• Explored FastAPI for async backend development patterns
+
+Full-Stack Project Development [2023]
+• Created multiple production-like applications combining frontend/backend
+• Gained hands-on experience with deployment and DevOps practices
+• Collaborated on systems focused on trading and data analysis
+
+================================================================================
+TECHNICAL HIGHLIGHTS
+================================================================================
+✓ Strong DSA Foundation: 150+ LeetCode problems, Advanced Arrays/Trees/Graphs
+✓ System Design: Scalability patterns, distributed systems, caching strategies
+✓ Backend Optimization: API performance, database indexing, load handling
+✓ Frontend Proficiency: React components, animations, responsive design
+✓ DevOps Basics: Docker, GitHub Actions, deployment pipelines
+✓ Trading Systems: Technical analysis, backtesting, real-time processing
+
+================================================================================
+ACHIEVEMENTS
+================================================================================
+• 65% win rate on historical trading strategy backtests
+• 99.9% uptime on production REST API backend
+• 50ms average API response time (40% faster than industry standard)
+• 98% accuracy on AI application test suite
+• 40% improvement in user problem-solving speed via DSA tracker
+• 150+ algorithm problems solved on LeetCode
+
+================================================================================
+INTERESTS
+================================================================================
+Interested in roles involving: Backend Systems, System Design, Quantitative
+Trading, Distributed Systems, High-Performance Computing, and ML Infrastructure.
+
+Actively preparing for FAANG technical interviews and exploring opportunities in
+High-Frequency Trading (HFT) firms.
+
+================================================================================
+Last Updated: February 2026 | www.yourportfolio.com
+================================================================================
