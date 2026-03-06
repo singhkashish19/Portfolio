@@ -12,7 +12,7 @@ const Experience = () => {
       icon: FaGraduationCap,
       period: '2024 - Present',
       title: 'B.E. Computer Science',
-      organization: 'Engineering College',
+      organization: 'Panjab University',
       description:
         'Pursuing rigorous CS curriculum focused on algorithms, systems, and advanced concepts. GPA: 8.65/10.0',
       highlights: [
